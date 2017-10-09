@@ -12,6 +12,16 @@ La liste des paquets installés sur ma machine sont disponibles dans le fichier 
 cat package.list | xargs yaourt -S --needed --noconfirm
 ```
 
+Faire l'installation automatique des packages de base
+```
+make install
+```
+
+Faire l'installation automatique des packages de developement
+```
+make installdev
+```
+
 **Trouver le process qui utilise un port**
 ```
 sudo netstat -nlp | grep :80
