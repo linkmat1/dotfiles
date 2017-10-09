@@ -5,7 +5,7 @@ setup personel de mon ordinateur de secours_
 
 Ce dépôt est une bouée de sauvetage en cas de formatage et me permet de noter les choses à savoir concernant mon installation de Linux.
 
-![alt text]()
+![alt text](https://github.com/linkmat1/dotfiles/blob/master/desktopmanjaro.png)
 
 La liste des paquets installés sur ma machine sont disponibles dans le fichier package.list. Les paquets AUR sont en fin de liste
 ```
