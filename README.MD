@@ -12,12 +12,12 @@ La liste des paquets installés sur ma machine sont disponibles dans le fichier 
 cat package.list | xargs yaourt -S --needed --noconfirm
 ```
 
-Faire l'installation automatique des packages de base
+**Faire l'installation automatique des packages de base**
 ```
 make install
 ```
 
-Faire l'installation automatique des packages de developement
+**Faire l'installation automatique des packages de developement**
 ```
 make installdev
 ```
@@ -32,3 +32,5 @@ sudo netstat -nlp | grep :80
 pulseaudio -k && sudo alsa force-reload
 ```
 
+**Ajouts des Fichier d'installation & Sauvegarde**
+Dans le fichier sauveger quelque aide memoire pour la Sauvegarde de mon systemes 
