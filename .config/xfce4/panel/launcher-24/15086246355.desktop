@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Vivaldi
+GenericName=Web Browser
+GenericName[fr]=Navigateur Web
+Comment=Access the Internet
+Comment[fr]=Accéder à Internet
+Exec=/usr/bin/vivaldi-stable %U
+Terminal=false
+Icon=vivaldi
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
+X-XFCE-Source=file:///usr/share/applications/vivaldi-stable.desktop
