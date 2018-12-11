@@ -32,5 +32,4 @@ sudo netstat -nlp | grep :80
 pulseaudio -k && sudo alsa force-reload
 ```
 
-**Ajouts des Fichier d'installation & Sauvegarde**
-Dans le fichier sauveger quelque aide memoire pour la Sauvegarde de mon systemes 
+
